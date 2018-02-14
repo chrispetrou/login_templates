@@ -6,7 +6,7 @@ A simple _login-logout_ template built with:
 
 *   `php 5.6.10`
 *   `bootstrap v4`
-*   `mySQL`
+*   [`MySQL`](https://www.mysql.com/)
 *   `jquery`
 
 ### Notes
