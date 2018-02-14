@@ -6,9 +6,9 @@ show tables;
 -- if you choose to rename the table make
 -- also the change to login.php
 create table credentials(
-	userid int not null AUTO_INCREMENT,
-	username varchar(15) not null,
-	password varchar(100) not null,
+    userid int not null AUTO_INCREMENT,
+    username varchar(15) not null,
+    password varchar(100) not null,
 primary key(userid) );
 
 -- default creds: testuser, testpassword (in sha1) - change those !!!
