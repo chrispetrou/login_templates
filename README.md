@@ -4,10 +4,10 @@
 
 A simple _login-logout_ template built with:
 
-*   `php 5.6.10`
-*   `bootstrap v4`
+*   [`php`](https://secure.php.net/index.php)
+*   [`bootstrap v4`](https://getbootstrap.com/)
 *   [`MySQL`](https://www.mysql.com/)
-*   `jquery`
+*   [`jquery`](https://jquery.com/)
 
 ### Notes
 
