@@ -16,8 +16,7 @@
   <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
 <![endif]-->
 </head>
-<!-- Photo by Phil Botha on Unsplash -->
-<body background="images/wallpaper.jpg">
+<body>
 <div>
 <nav class="navbar navbar-dark bg-dark">
   <a class="navbar-brand" href="#">
@@ -30,8 +29,9 @@
 <!-- BEGIN of custom CSS -->
 <style>
     html, body {
-        background-repeat:no-repeat;
-        background-size:cover;  
+        background-repeat: repeat;
+        background-size: auto, cover;
+        background: #222C31 url(images/black-linen.png);
         width: 100%;  
         height: 100%;  
     }
