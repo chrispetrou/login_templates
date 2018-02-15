@@ -10,7 +10,7 @@ A simple _login-logout_ template built with:
 *   [`jquery`](https://jquery.com/)
 ---
 
-![]('img/signin.png')
+![]('/img/signin.png')
 
 ### Notes
 
