@@ -1,5 +1,4 @@
-# Login templates  [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/chrispetrou/youtube2mp3/blob/master/LICENSE)
----
+# Login templates  [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/chrispetrou/login_templates/blob/master/LICENSE)
 
 ### bootstrap4_login
 
