@@ -16,6 +16,7 @@ A simple _login-logout_ template built with:
 
 *   This is just a simple login-logout template that **has not** been fully security-tested and it has just been used for a university project of mine.
 *   `mysqli_connect.php` should be stored in a path that is not accessable by public for security reasons.
+*   Don't forget to change the default creds in _bootstrap4_login/creds_db.sql_
 
 ## License
 
