@@ -8,9 +8,8 @@ A simple _login-logout_ template built with:
 *   [`bootstrap v4`](https://getbootstrap.com/)
 *   [`MySQL`](https://www.mysql.com/)
 *   [`jquery`](https://jquery.com/)
----
 
-<center><img src="img/signin.png" width="60%"></center>
+<center><img src="img/signin.png" width="80%"></center>
 
 ### Notes
 
